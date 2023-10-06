@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently making an Ecommerce Website. <br><br>🌱 I’m currently learning spring-boot framework<br><br>📫 How to reach me sk50@iitbbs.ac.in
+🔭 I’m currently making an Ecommerce Website. <br>📫 How to reach me sk50@iitbbs.ac.in
 
 
 # 💻 Tech Stack:
