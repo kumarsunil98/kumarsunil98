@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently making an Ecommerce Website. <br>📫 How to reach me sk50@iitbbs.ac.in
+ 📫 How to reach me sk50@iitbbs.ac.in
 
 
 # 💻 Tech Stack:
